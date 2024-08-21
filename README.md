@@ -1,3 +1,4 @@
+[![Jorge Software Developer Banner](GitHub-banner.png)](https://www.figma.com/design/GeZn4kNbMwC6Jfr9PysVOt/README-Github-Banner-(Community)?node-id=0-67&m=dev&t=YhWECvCxDnpirARP-1)
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">Software Developer</h3>
 
