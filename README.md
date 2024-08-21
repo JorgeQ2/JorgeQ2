@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">Software Developer</h3>
 
-![Header](./your-header-image-name.png)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgeq2&label=Profile%20views&color=0e75b6&style=flat" alt="jorgeq2" /> </p>
 
