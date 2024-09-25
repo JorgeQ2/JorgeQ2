@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jorge</h1>
-<h2 align="center">Software Developer</h2>
+# 💫 About Me:
+🤝 I’m looking for help with a good open source project<br>🌱 I’m currently deep learning python and taking boot.dev course on python<br>💬 Ask me about MSSA (Microsoft Software and Systems Academy)! MSSA is for service members looking to transition into the tech industry<br>⚡ Hobbies: Gaming, Hiking and Water Sports
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgeq2&label=Profile%20views&color=0e75b6&style=flat" alt="jorgeq2" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social media links here -->
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaaceuntakjang) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IsaacEJang&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IsaacEJang&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacEJang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeq2&show_icons=true&locale=en&layout=compact&theme=dark" alt="jorgeq2" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IsaacEJang&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgeq2&show_icons=true&locale=en&theme=dark" alt="jorgeq2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeq2&theme=dark" alt="jorgeq2" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
